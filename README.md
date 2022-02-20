@@ -1,5 +1,5 @@
 # asus-router-session-steal
-Just a simple module I wrote to session steal my old router and change the password
+Wrote my own metasploit module to session steal my old router and change the password
 Works by stealing an active admin session and is related to the 
 CVE-2017-6549 vulnerability
 
